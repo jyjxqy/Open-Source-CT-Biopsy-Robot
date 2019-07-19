@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [de0_nano_pcb_motor.PcbDoc]
+   Generated File[de0_nano_pcb_motor.TXT]
+   Generated File[de0_nano_pcb_motor.LDP]
+   Generated File[de0_nano_pcb_motor.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:38:43 PM On 8/4/2017

@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [de0_nano_pcb_interface.PcbDoc]
+   Generated File[de0_nano_pcb_interface.GTL]
+   Generated File[de0_nano_pcb_interface.GBL]
+   Generated File[de0_nano_pcb_interface.GTP]
+   Generated File[de0_nano_pcb_interface.GTO]
+   Generated File[de0_nano_pcb_interface.GTS]
+   Generated File[de0_nano_pcb_interface.GBS]
+   Generated File[de0_nano_pcb_interface.GBO]
+   Generated File[de0_nano_pcb_interface.GBP]
+   Generated File[de0_nano_pcb_interface.GKO]
+   Generated File[de0_nano_pcb_interface.GM1]
+   Generated File[de0_nano_pcb_interface.GML]
+   Generated File[de0_nano_pcb_interface.1]
+   Generated File[de0_nano_pcb_interface.RUL]
+   Generated File[de0_nano_pcb_interface.EXTREP]
+   Generated File[de0_nano_pcb_interface.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 1:38:53 PM On 8/4/2017

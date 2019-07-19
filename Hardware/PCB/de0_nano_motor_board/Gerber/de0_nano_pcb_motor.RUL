@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\dimitri\Downloads\altium-20170731T194831Z-001\altium\de0-nano\de0_nano_motor_board\de0_nano_pcb_motor.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
